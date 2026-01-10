@@ -4,6 +4,7 @@ Question:
 You are tasked with designing a Conflict Resolution Mechanism for a
 Media Advisor Expert System.
 git@github.com:mtahrawi/Expert-systems-26.git
+
 Tasks:
 Define a scenario where conflicting rules might arise.
 Propose a Conflict Resolution Mechanism for the given scenario. Your
